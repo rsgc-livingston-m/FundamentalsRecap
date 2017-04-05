@@ -42,7 +42,7 @@ canvas.drawText(message: "y", size: 24, x: 210, y: 375)
 canvas.drawLine(fromX: 0, fromY: 200, toX: 400, toY: 200)
 canvas.drawText(message: "x", size: 24, x: 375, y: 200)
 canvas.rotate(by: 45)
-canvas.translate(byX: 200, byY: 200)
+
 
 /*:
  ## Challenge 1
