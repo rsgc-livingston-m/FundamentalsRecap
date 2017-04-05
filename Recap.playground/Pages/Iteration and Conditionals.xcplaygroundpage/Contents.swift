@@ -20,6 +20,8 @@ import PlaygroundSupport
 
 // Create canvas
 let canvas = Canvas(width: 400, height: 400)
+canvas.drawEllipse(centreX: 200, centreY: 200, width: 5, height: 250, borderWidth: 10)
+
 
 // Replace this comment and add your code below
 
